@@ -1,5 +1,5 @@
 # Q-Learning
-Teaching an agent to play a simple game using Q-Learning in Numpy
+Agent learns to play a simple game using Q-Learning in Numpy
 
 ## Requirements
 * PIL >= 6.2.0
