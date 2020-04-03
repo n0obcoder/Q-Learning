@@ -22,7 +22,7 @@ Following is the plot for the moving average of the rewards. It's upward trend s
 <img src='/results/reward_vs_episode.jpg' width='350' alt='reward_vs_episode.jpg' hspace='270'>
 
 And here are some GIFs that show how the agent gets smarter with every episode of training.
-<br>
+<br><br>
 Here is the thirsty agent looking for the bottle of beer with randomly initialized q-table. It means that the agent has no clue about the environment yet.
 <br>
 <img src='/results/dumb_agent_gif.gif' width='350' alt='dumb_agent_gif.gif' hspace='270'>
