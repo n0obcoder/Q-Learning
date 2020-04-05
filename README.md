@@ -34,3 +34,6 @@ After some training, the agent does a relatively better job of making sequential
 Finally after thousands of episode of training, the agent gets really good at making sequential decisions and finds the beer in no time ! : D 
 <br>
 <img src='/results/smart_agent_gif.gif' width='350' alt='smart_agent_gif.gif' hspace='270'>
+
+## Medium Blog
+https://medium.com/@animesh7pointer/using-q-learning-in-numpy-to-teach-an-agent-to-play-a-game-4fee32eb922a
