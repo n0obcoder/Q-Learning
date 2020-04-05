@@ -35,5 +35,5 @@ Finally after thousands of episode of training, the agent gets really good at ma
 <br>
 <img src='/results/smart_agent_gif.gif' width='350' alt='smart_agent_gif.gif' hspace='270'>
 
-## Medium Blog
+## Blog on Medium
 https://medium.com/@animesh7pointer/using-q-learning-in-numpy-to-teach-an-agent-to-play-a-game-4fee32eb922a
